@@ -1,0 +1,28 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Experience"
+    url: "/#-experience"
+
+  # - title: "News"
+  #   url: "/#-news"
+
+  # - title: "Projects"
+  #   url: "/#-projects"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  # - title: "Invited Talks"
+  #   url: "/#-invited-talks"
+
+  - title: "Activities"
+    url: "/#-activities"
