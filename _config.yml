@@ -9,7 +9,7 @@
 title                    : "Kai Wang (王凯)"
 description              : "PhD Student in BME Medical Physics, UTSW."
 repository               : "wangkaiwan/wangkaiwan.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      : # G-SWFCX99KQZ
