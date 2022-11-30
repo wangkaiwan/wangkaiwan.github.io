@@ -1,6 +1,7 @@
 I am a PhD student in Biomedical Engineering Program **Medical Physics** Track at UT Southwestern Medical Center, advised by Dr. [Jing Wang](https://profiles.utsouthwestern.edu/profile/115158/jing-wang.html). Now, I work at [Medical Artificial Intelligence and Automation (MAIA) Lab](https://www.utsouthwestern.edu/labs/maia/) and [Advanced Imaging and Informatics for Radiation Therapy (AIRT) Lab](https://www.utsouthwestern.edu/labs/airt/) for my PhD thesis, my current projects mainly focus on radiomics-based cancer radiotherapy outcome prediction. Before coming to UTSW, I worked with Dr. [Xuanqin Mou](https://gr.xjtu.edu.cn/web/xqmou/home) and Dr. [Xi Chen](http://gr.xjtu.edu.cn/web/candy/home) at the Institute of Image Processing and Pattern Recognition (IIPPR) <a href="http://en.xjtu.edu.cn/"><img class="svg" src="/images/XJTU.svg" width="23pt"></a> on Field Emission X-ray Source Array based Imaging Methods for my master's degree.
 
-My research interest includes medical image analysis, cancer treatment outcome prediction, radiomics, and medical imaging. I have published more than 10 papers in medical physics related journals.
+My research interest includes medical image analysis, cancer treatment outcome prediction, radiomics, and medical imaging.
+
 <br/>
 <br/>
 🔥🔥🔥🔥🔥🔥 **I'm preparing for Medical Physics Residency Application!** 
