@@ -10,6 +10,7 @@
 - Physics in Medicine and Biology
 - Medical Physics
 - International Journal of Radiation Oncology* Biology* Physics (Red Journal)
+- IEEE Journal of Biomedical and Health Informatics
 - The British Journal of Radiology
 - Scientific Reports
 - Biomedical Physics & Engineering Express 
