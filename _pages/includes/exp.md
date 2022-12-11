@@ -18,7 +18,7 @@
   - Proposed an [automatic segmentation guided cancer recurrence-free survival prediction model](https://arxiv.org/abs/2210.00589).
   - Introduced [learning with rejection option](https://arxiv.org/abs/2210.00589) strategy for improving prediction reliability on selected patient group.
 - *2021.10 - 2022.06*, Optimal PTV Margin for Postoperative Prostatic Fossa Daily ART, <a href="https://www.utsouthwestern.edu/labs/maia/"><img class="svg" src="/images/MAIA.svg" width="60pt"></a> UTSW.
-  - Investigated the post-treatment [CTV coverage when different PTV margins](https://onlinelibrary.wiley.com/doi/10.1002/lary.30516) were applied on CTV delineated before daily ART.
+  - Investigated the post-treatment [CTV coverage when different PTV margins](https://linkinghub.elsevier.com/retrieve/pii/S036030162203053X) were applied on CTV delineated before daily ART.
   - Evaluated the [time dependence of CTV coverage](https://www.redjournal.org/article/S0360-3016(22)03052-8/fulltext) using different PTV margins.
 - *2021.05 - Present*, Pancreatic Cancer Treatment Outcome Prediction, <a href="https://www.utsouthwestern.edu/labs/maia/"><img class="svg" src="/images/MAIA.svg" width="60pt"></a> UTSW.
   - Built a delta-radiomics-based survival model for predicting the treatment outcome of patients undergoing surgical resection of PDAC following neoadjuvant therapy. 
@@ -26,7 +26,7 @@
 - *2019.05 - 2021.06*, Lateral Skull Base Tumor Growth Prediction, <a href="https://www.utsouthwestern.edu/labs/maia/"><img class="svg" src="/images/MAIA.svg" width="60pt"></a> UTSW.
   - Developed a lateral skull base tumor automatic segmentation method using MRI image.
   - Investigated the [stability of tumor delineation by human expert and auto-segmentation](https://onlinelibrary.wiley.com/doi/abs/10.1002/lary.28695).
-  - Proposed a [joint tumor enlargement prediction and segmentation model](https://github.com/wangkaiwan/VS-Growth-Prediction) using  intitial diagnostic MR image for vestibular schwannoma.
+  - Proposed a [joint tumor enlargement prediction and segmentation model](https://onlinelibrary.wiley.com/doi/10.1002/lary.30516) using  intitial diagnostic MR image for vestibular schwannoma.
   - Build a prediction model for [vestibular schwannoma enlargement after radiosurgery](https://journals.lww.com/otology-neurotology/Abstract/2021/03000/Prediction_of_Vestibular_Schwannoma_Enlargement.32.aspx) using tumor shape and MRI texture features.
 - *2019.08 - 2019.12*, [High-Resolution Brain PET Imaging](https://ieeexplore.ieee.org/abstract/document/9875884/), <a href="https://www.utsouthwestern.edu/labs/maia/"><img class="svg" src="/images/MAIA.svg" width="60pt"></a> UTSW.
   - Simulated the coincidence signal can be detected by a high-resolution low-sensitivity detecor and a low-resolution high-sensitivity detector using Monte Carlo method.
