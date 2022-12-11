@@ -6,7 +6,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Medical Physics</div><img src='images/ReliableDeltaRadiomics.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards reliable head and neck cancers locoregional recurrence prediction using delta-radiomics and learning with rejection option](https://arxiv.org/abs/2210.00589) \\
+[Towards reliable head and neck cancers locoregional recurrence prediction using delta-radiomics and learning with rejection option](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.16132) \\
 **Kai Wang**, Michael Dohopolski, Qiongwen Zhang, David Sher, Jing Wang (Accepted)
 
 [**Project**](https://github.com/wangkaiwan/LRO_ReliableRadiomics) \| [![](https://img.shields.io/github/license/wangkaiwan/LRO_ReliableRadiomics?style=social&label=Code)](https://github.com/wangkaiwan/LRO_ReliableRadiomics)

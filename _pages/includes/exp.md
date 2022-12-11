@@ -16,7 +16,7 @@
   - Investigated the [additive benefit of CT and intra-treatment CBCT features](https://qims.amegroups.com/article/view/74434/html) for HNC radiotherapy outcome prediction.
   - Built a deep transfer learning model for [predicting the need of aggressive nutritional supplementation](https://www.sciencedirect.com/science/article/pii/S0167814022002249) for patients receiving radiotherapy.
   - Proposed an [automatic segmentation guided cancer recurrence-free survival prediction model](https://arxiv.org/abs/2210.00589).
-  - Introduced [learning with rejection option](https://arxiv.org/abs/2210.00589) strategy for improving prediction reliability on selected patient group.
+  - Introduced [learning with rejection option](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.16132) strategy for improving prediction reliability on selected patient group.
 - *2021.10 - 2022.06*, Optimal PTV Margin for Postoperative Prostatic Fossa Daily ART, <a href="https://www.utsouthwestern.edu/labs/maia/"><img class="svg" src="/images/MAIA.svg" width="60pt"></a> UTSW.
   - Investigated the post-treatment [CTV coverage when different PTV margins](https://www.practicalradonc.org/article/S1879-8500(22)00366-6/fulltext) were applied on CTV delineated before daily ART.
   - Evaluated the [time dependence of CTV coverage](https://www.redjournal.org/article/S0360-3016(22)03052-8/fulltext) using different PTV margins.
