@@ -18,7 +18,7 @@
   - Proposed an [automatic segmentation guided cancer recurrence-free survival prediction model](https://arxiv.org/abs/2210.00589).
   - Introduced [learning with rejection option](https://arxiv.org/abs/2210.00589) strategy for improving prediction reliability on selected patient group.
 - *2021.10 - 2022.06*, Optimal PTV Margin for Postoperative Prostatic Fossa Daily ART, <a href="https://www.utsouthwestern.edu/labs/maia/"><img class="svg" src="/images/MAIA.svg" width="60pt"></a> UTSW.
-  - Investigated the post-treatment [CTV coverage when different PTV margins](https://linkinghub.elsevier.com/retrieve/pii/S036030162203053X) were applied on CTV delineated before daily ART.
+  - Investigated the post-treatment [CTV coverage when different PTV margins](https://onlinelibrary.wiley.com/doi/10.1002/lary.30516) were applied on CTV delineated before daily ART.
   - Evaluated the [time dependence of CTV coverage](https://www.redjournal.org/article/S0360-3016(22)03052-8/fulltext) using different PTV margins.
 - *2021.05 - Present*, Pancreatic Cancer Treatment Outcome Prediction, <a href="https://www.utsouthwestern.edu/labs/maia/"><img class="svg" src="/images/MAIA.svg" width="60pt"></a> UTSW.
   - Built a delta-radiomics-based survival model for predicting the treatment outcome of patients undergoing surgical resection of PDAC following neoadjuvant therapy. 

@@ -20,7 +20,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Laryngoscope</div><img src='images/VS-MultiTask.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Joint Vestibular Schwannoma Enlargement Prediction and Segmentation Using a Deep Multi-task Model]() \\
+[Joint Vestibular Schwannoma Enlargement Prediction and Segmentation Using a Deep Multi-task Model](https://onlinelibrary.wiley.com/doi/10.1002/lary.30516) \\
 **Kai Wang**, Nicholas George-Jones, Liyuan Chen, Jacob Hunter, Jing Wang (Accepted)
 
 [**Project**](https://github.com/wangkaiwan/VS-Growth-Prediction) \| [![](https://img.shields.io/github/license/wangkaiwan/VS-Growth-Prediction?style=social&label=Code)](https://github.com/wangkaiwan/VS-Growth-Prediction)
