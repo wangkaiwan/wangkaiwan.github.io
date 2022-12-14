@@ -114,4 +114,5 @@
 
 - [Uncertainty estimations methods for a deep learning model to aid in clinical decision-making--a clinician's perspective](https://arxiv.org/abs/2210.00589), Michael Dohopolski, **Kai Wang** , Biling Wang, Ti Bai, Dan Nguyen, David Sher, Steve Jiang, Jing Wang, [📃](https://arxiv.org/abs/2210.00589)
 - [Development and Validation of Delta-radiomics based Predictors of Resectability and Prognosis in Pancreatic Ductal Adenocarcinoma after Neoadjuvant](), **Kai Wang**, Ahmed Elamir, John Karalis, et al.
+- [Recurrence-Free Survival Prediction for Anal Squamous Cell Carcinoma Chemo-radiotherapy using Planning CT based Radiomics Model](), Shanshan Tang, **Kai Wang**, David Hein, Nina N. Sanford, Jing Wang.
 
