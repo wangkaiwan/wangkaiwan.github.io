@@ -7,7 +7,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Towards reliable head and neck cancers locoregional recurrence prediction using delta-radiomics and learning with rejection option](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.16132) \\
-**Kai Wang**, Michael Dohopolski, Qiongwen Zhang, David Sher, Jing Wang (Accepted)
+**Kai Wang**, Michael Dohopolski, Qiongwen Zhang, David Sher, Jing Wang, *Medical physics*, 2022.
 
 [**Project**](https://github.com/wangkaiwan/LRO_ReliableRadiomics) \| [![](https://img.shields.io/github/license/wangkaiwan/LRO_ReliableRadiomics?style=social&label=Code)](https://github.com/wangkaiwan/LRO_ReliableRadiomics)
   - Delta-radiomcis features calculated based on Pre- and Post-Therapy PET/CT.
@@ -21,7 +21,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Joint Vestibular Schwannoma Enlargement Prediction and Segmentation Using a Deep Multi-task Model](https://onlinelibrary.wiley.com/doi/10.1002/lary.30516) \\
-**Kai Wang**, Nicholas George-Jones, Liyuan Chen, Jacob Hunter, Jing Wang (Accepted)
+**Kai Wang**, Nicholas George-Jones, Liyuan Chen, Jacob Hunter, Jing Wang, *The Laryngoscope*, 2022.
 
 [**Project**](https://github.com/wangkaiwan/VS-Growth-Prediction) \| [![](https://img.shields.io/github/license/wangkaiwan/VS-Growth-Prediction?style=social&label=Code)](https://github.com/wangkaiwan/VS-Growth-Prediction)
   - We presented a deep multi-task (DMT) model to predict vestibular schwannoma enlargement and tumor segmentation mask simultaneously using the initial diagnostic ceT1 MRI.
@@ -42,16 +42,16 @@
 </div>
 
 - [Predicting local persistence/recurrence after radiation therapy for head and neck cancer from PET/CT using a multi-objective, multi-classifier radiomics model](https://www.frontiersin.org/articles/10.3389/fonc.2022.955712/full), Qiongwen Zhang, **Kai Wang**, Zhiguo Wang, et al., *Frontiers in oncology* 12 (2022). (The first two authors contributed to this work equally)
-- [Preliminary Evaluation of PTV Margins for Online Adaptive Radiotherapy of the Prostatic Fossa](https://www.practicalradonc.org/article/S1879-8500(22)00366-6/fulltext), Howard Morgan, **Kai Wang**, Yulong Yan, et al., *Practical Radiation Oncology* (Accepted)
-- [Use of deep learning to predict the need for aggressive nutritional supplementation during head and neck radiotherapy](https://www.sciencedirect.com/science/article/pii/S0167814022002249), Michael Dohopolski, **Kai Wang**, Howard Morgan, David Sher, Jing Wang, *Radiotherapy and Oncology*, 171, 129-138. 
-- [Exploratory ensemble interpretable model for predicting local failure in head and neck cancer: The additive benefit of CT and intra-treatment cone-beam computed tomography features](https://qims.amegroups.com/article/view/74434/html), Howard E Morgan, **Kai Wang**, Michael Dohopolski, Xiao Liang, Michael R Folkert, David J Sher, Jing Wang, *Quantitative Imaging in Medicine and Surgery*, 11(12), 4781-4796.
-- [Prediction of vestibular schwannoma enlargement after radiosurgery using tumor shape and MRI texture features](https://journals.lww.com/otology-neurotology/Fulltext/2021/03000/Prediction_of_Vestibular_Schwannoma_Enlargement.32.aspx), Nicholas A George-Jones, **Kai Wang**, Jing Wang, Jacob B Hunter, *Otology & Neurotology*, 42(3), e348-e354. 
-- [Automated Detection of Vestibular Schwannoma Growth Using a Two‐Dimensional U‐Net Convolutional Neural Network](https://onlinelibrary.wiley.com/doi/full/10.1002/lary.28695), Nicholas A George-Jones, **Kai Wang**, Jing Wang, Jacob B Hunter, *The Laryngoscope*, 131(2), E619-E624.
-- [Multifaceted radiomics for distant metastasis prediction in head & neck cancer](https://iopscience.iop.org/article/10.1088/1361-6560/ab8956/meta), Zhiguo Zhou, **Kai Wang**, Michael Folkert, Hui Liu, Steve Jiang, David Sher, Jing Wang, *Physics in Medicine & Biology*, 65(15), 155009.
-- [A Novel Stationary CT Scheme Based on High-Density X-Ray Sources Device](https://ieeexplore.ieee.org/abstract/document/9120034), Yiting Duan, Haitao Cheng, **Kai Wang**, Xuanqin Mou, *IEEE Access*, 8, 112910-112921.
-- [Locoregional recurrence prediction in head and neck cancer based on multi-modality and multi-view feature expansion](https://iopscience.iop.org/article/10.1088/1361-6560/ac72f0/meta), Rongfang Wang, Jinkun Guo, Zhiguo Zhou, **Kai Wang**, Shuiping Gou, Rongbin Xu, David Sher, Jing Wang, *Physics in Medicine & Biology*, 67(12), 125004.
-- [Attention Guided Lymph Node Malignancy Prediction in Head and Neck Cancer](https://www.sciencedirect.com/science/article/pii/S0360301621001711), Liyuan Chen, Michael Dohopolski, Zhiguo Zhou, **Kai Wang**, Rongfang Wang, David Sher, Jing Wang, *International Journal of Radiation Oncology\* Biology\* Physics*, 110(4), pp.1171-1179. 
-- [Real-time MRI motion estimation through an unsupervised k-space-driven deformable registration network (KS-RegNet)](https://iopscience.iop.org/article/10.1088/1361-6560/ac762c/meta), Hua-Chieh Shao, Tian Li, Michael J Dohopolski, Jing Wang, Jing Cai, Jun Tan, **Kai Wang**, You Zhang, *Physics in Medicine & Biology*, 67(13), p.135012.
+- [Preliminary Evaluation of PTV Margins for Online Adaptive Radiotherapy of the Prostatic Fossa](https://www.practicalradonc.org/article/S1879-8500(22)00366-6/fulltext), Howard Morgan, **Kai Wang**, Yulong Yan, et al., *Practical Radiation Oncology*, 2022.
+- [Use of deep learning to predict the need for aggressive nutritional supplementation during head and neck radiotherapy](https://www.sciencedirect.com/science/article/pii/S0167814022002249), Michael Dohopolski, **Kai Wang**, Howard Morgan, David Sher, Jing Wang, *Radiotherapy and Oncology*, 2022, 171, 129-138. 
+- [Exploratory ensemble interpretable model for predicting local failure in head and neck cancer: The additive benefit of CT and intra-treatment cone-beam computed tomography features](https://qims.amegroups.com/article/view/74434/html), Howard E Morgan, **Kai Wang**, Michael Dohopolski, Xiao Liang, Michael R Folkert, David J Sher, Jing Wang, *Quantitative Imaging in Medicine and Surgery*, 2021, 11(12), 4781-4796.
+- [Prediction of vestibular schwannoma enlargement after radiosurgery using tumor shape and MRI texture features](https://journals.lww.com/otology-neurotology/Fulltext/2021/03000/Prediction_of_Vestibular_Schwannoma_Enlargement.32.aspx), Nicholas A George-Jones, **Kai Wang**, Jing Wang, Jacob B Hunter, *Otology & Neurotology*, 2021, 42(3), e348-e354. 
+- [Automated Detection of Vestibular Schwannoma Growth Using a Two‐Dimensional U‐Net Convolutional Neural Network](https://onlinelibrary.wiley.com/doi/full/10.1002/lary.28695), Nicholas A George-Jones, **Kai Wang**, Jing Wang, Jacob B Hunter, *The Laryngoscope*, 2021, 131(2), E619-E624.
+- [Multifaceted radiomics for distant metastasis prediction in head & neck cancer](https://iopscience.iop.org/article/10.1088/1361-6560/ab8956/meta), Zhiguo Zhou, **Kai Wang**, Michael Folkert, Hui Liu, Steve Jiang, David Sher, Jing Wang, *Physics in Medicine & Biology*, 2020, 65(15), 155009.
+- [A Novel Stationary CT Scheme Based on High-Density X-Ray Sources Device](https://ieeexplore.ieee.org/abstract/document/9120034), Yiting Duan, Haitao Cheng, **Kai Wang**, Xuanqin Mou, *IEEE Access*, 2020, 8, 112910-112921.
+- [Locoregional recurrence prediction in head and neck cancer based on multi-modality and multi-view feature expansion](https://iopscience.iop.org/article/10.1088/1361-6560/ac72f0/meta), Rongfang Wang, Jinkun Guo, Zhiguo Zhou, **Kai Wang**, Shuiping Gou, Rongbin Xu, David Sher, Jing Wang, *Physics in Medicine & Biology*, 2022, 67(12), 125004.
+- [Attention Guided Lymph Node Malignancy Prediction in Head and Neck Cancer](https://www.sciencedirect.com/science/article/pii/S0360301621001711), Liyuan Chen, Michael Dohopolski, Zhiguo Zhou, **Kai Wang**, Rongfang Wang, David Sher, Jing Wang, *International Journal of Radiation Oncology\* Biology\* Physics*, 2021, 110(4), pp.1171-1179. 
+- [Real-time MRI motion estimation through an unsupervised k-space-driven deformable registration network (KS-RegNet)](https://iopscience.iop.org/article/10.1088/1361-6560/ac762c/meta), Hua-Chieh Shao, Tian Li, Michael J Dohopolski, Jing Wang, Jing Cai, Jun Tan, **Kai Wang**, You Zhang, *Physics in Medicine & Biology*, 2022, 67(13), p.135012.
 
 
 
