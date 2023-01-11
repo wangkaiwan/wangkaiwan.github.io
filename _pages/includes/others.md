@@ -7,10 +7,11 @@
 
 # 💻 Activities
 > ## 📜 Journal Reviewer
-- Physics in Medicine and Biology
 - Medical Physics
-- International Journal of Radiation Oncology* Biology* Physics (Red Journal)
+- Physics in Medicine and Biology
+- International Journal of Radiation Oncology* Biology* Physics
 - IEEE Journal of Biomedical and Health Informatics
+- IEEE Transactions on Medical Imaging 
 - The British Journal of Radiology
 - Scientific Reports
 - Biomedical Physics & Engineering Express 
