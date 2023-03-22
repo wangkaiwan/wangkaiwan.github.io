@@ -3,4 +3,3 @@ I am a PhD student in the Biomedical Engineering Program **Medical Physics** Tra
 My research interest includes medical image analysis, cancer treatment outcome prediction, radiomics, and medical imaging.
 <br/>
 <br/>
-🔥🔥🔥🔥🔥🔥 **I'm applying for Medical Physics Residency!** 
