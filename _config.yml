@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kai Wang (王凯)"
-description              : "PhD Student in BME Medical Physics, UTSW."
+description              : "Medical Physics Resident, UMMC."
 repository               : "wangkaiwan/wangkaiwan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  : # code-ZxFK3f4pfb
 author:
   name             : "Kai Wang (王凯)"
   avatar           : "images/medium-512.jpg"
-  bio              : "AIRT Lab, MAIA Lab, UTSW"
-  location         : "Dallas, TX"
+  bio              : "RadOnc, UMMC"
+  location         : "Baltimore, MD"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=lawzt94AAAAJ"
-  email            : "Kai. Wang@UTSouthwestern.edu"
+  email            : "Kai. Wang@UMM.edu"
   researchgate     : "https://www.researchgate.net/profile/Kai-Wang-136"
   uri              :
   bitbucket        :
@@ -44,7 +44,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "kai-wang-9b3102b7/"
-  dblp             : 
+  dblp             : "78/2022-53"
   orcid            : "https://orcid.org/0000-0003-2155-1445"
   pinterest        :
   soundcloud       :
